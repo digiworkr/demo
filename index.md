@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to digiworkr demo page
 
-You can use the [editor on GitHub](https://github.com/digiworkr/demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+use the [editor on GitHub](https://github.com/digiworkr/demo/edit/gh-pages/index.md) to maintain and preview the content in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever any commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages, from the content in your Markdown files.
 
 ### Markdown
 
